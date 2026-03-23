@@ -13,7 +13,7 @@
 
 cask "powerdocument" do
   version "1.0.0"
-  sha256 "1bc78d4a2770f8d35495f7c56c520d87081dd0db338582ddba355873164c92d3"
+  sha256 "3c14439a67b1e648933a41ef859ed2ac015e26d59c99e42eae6d430f6e674c99"
 
   url "https://github.com/visiblesoft-es/PowerDocument/releases/download/v#{version}/PowerDocument_#{version}_aarch64.dmg"
   name "PowerDocument"
