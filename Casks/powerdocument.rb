@@ -12,8 +12,8 @@
 #   3. Update `sha256` with the new hash
 
 cask "powerdocument" do
-  version "1.0.0"
-  sha256 "856cc6139020b37117a9a5ae2fae788bb5bba75f0d202f875749c0fae449bb0a"
+  version "1.0.1"
+  sha256 "43554e57414733b431323f767ae86d96a6006e0bf866c9294594fb2f74b2f6f7"
 
   url "https://github.com/visiblesoft-es/PowerDocument/releases/download/v#{version}/PowerDocument_#{version}_aarch64.dmg"
   name "PowerDocument"
